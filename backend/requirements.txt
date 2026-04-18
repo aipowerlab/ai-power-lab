@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+razorpay
+python-multipart
+motor
+bcrypt
+pydantic
+python-jose
+passlib[bcrypt]
+httpx
+pyjwt
+google-generativeai==0.3.2
+protobuf==3.20.3
